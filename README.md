@@ -2,4 +2,4 @@ Please see the following [blog post](https://www.learnopencv.com/high-dynamic-ra
 
 [High Dynamic Range (HDR) Imaging using OpenCV (C++/Python)](https://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python)
 
-this create a High Dynamic Range (HDR) image using multiple images taken with different exposure settings. 
+
